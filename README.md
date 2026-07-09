@@ -5,14 +5,11 @@
 **A structured, production-grade archive of Data Structures & Algorithms solutions**  
 *Built with FAANG engineering standards | Python 3 | Optimized for time & space complexity*
 
-![Problems Solved](https://img.shields.io/badge/dynamic/json?label=Problems%20Solved&query=$.totalSolved&url=https://leetcode-stats-api.herokuapp.com/abhiit_06&color=brightgreen&style=for-the-badge)
 ![Language](https://img.shields.io/badge/Language-Python%203-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Focus](https://img.shields.io/badge/Focus-FAANG%20Prep-FF6B35?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
 
 </div>
-
----
 
 ## 📌 About This Repository
 
