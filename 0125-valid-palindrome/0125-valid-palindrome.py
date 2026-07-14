@@ -1,29 +1,15 @@
 class Solution:
     def isPalindrome(self, s: str) -> bool:
          """
-        Problem:
-            Determine whether the given string is a valid palindrome
-            after ignoring non-alphanumeric characters and case.
+         Approach : Two Pointers - shrink from both ends,
+         skip non-alphanumeric characters, compare case-insensitively.
 
-        Args:
-            s (str): Input string.
+         Time Complexity : O(n) - each character visited at most once.
+         Space Complexity : O(1) - only two integer pointer used
 
-        Returns:
-            bool:
-                True  -> if the string is a palindrome.
-                False -> otherwise.
-
-        Time Complexity: O(n)
-        Reason:
-            - Each character is visited at most once.
-            - The left and right pointers only move toward the center.
-            - No character is processed more than once.
-
-        Space Complexity: O(1)
-        Reason:
-            - Only two integer pointers (left and right) are used.
-            - No additional data structure proportional to the input size
-              is created.
+         Example:
+         Input s = " A man, a plan, a canal: Panama"
+         Output : True
         """
 
          left = 0
