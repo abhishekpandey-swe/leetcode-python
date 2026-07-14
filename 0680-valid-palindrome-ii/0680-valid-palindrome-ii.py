@@ -1,5 +1,16 @@
 class Solution:
     def validPalindrome(self, s: str) -> bool:
+        """
+        Approach : Two pointer with one skip - when mismatch 
+        found, try skipping either left or right characters.
+
+        Time Complexity : O(n)
+        Space Complexity : O(1)
+
+        Example :
+        Input s = "abca"
+        Output : True(remove 'c' or 'b'
+        """
         def is_pal(i, j):
             while i < j:
                 if s[i] != s[j]: return False
