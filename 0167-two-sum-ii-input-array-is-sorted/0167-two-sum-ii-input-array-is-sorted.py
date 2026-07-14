@@ -1,7 +1,9 @@
 class Solution:
     def twoSum(self, numbers: list[int], target: int) -> list[int]:
         """
-        Two pointers on sorted array. O(n) time, O(1) space.
+        Approach : Two pointers on sorted array.
+        Time Complexity : O(n)
+        Space Complexity : O(1)
         Returns 1-based [left, right] indices summing to target.
         """
         left, right = 0, len(numbers) - 1
