@@ -106,6 +106,7 @@ Solving problems daily. Tracking streaks, revisiting weak patterns, and progress
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhishekmlops/leetcode-python/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0088-merge-sorted-array) |
@@ -122,11 +123,13 @@ Solving problems daily. Tracking streaks, revisiting weak patterns, and progress
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/abhishekmlops/leetcode-python/tree/master/0680-valid-palindrome-ii) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abhishekmlops/leetcode-python/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhishekmlops/leetcode-python/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0088-merge-sorted-array) |
