@@ -1,6 +1,9 @@
 class Solution(object):
     def subarraySum(self, nums, k):
         """
+        Time Complexity : O(n)
+        Space Complexity : O(1)
+        
         :type nums: List[int]
         :type k: int
         :rtype: int
