@@ -124,12 +124,14 @@ Solving problems daily. Tracking streaks, revisiting weak patterns, and progress
 | [0013-roman-to-integer](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/abhishekmlops/leetcode-python/tree/master/0125-valid-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/abhishekmlops/leetcode-python/tree/master/0680-valid-palindrome-ii) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/abhishekmlops/leetcode-python/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0881-boats-to-save-people) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Array
 |  |
 | ------- |
@@ -184,4 +186,5 @@ Solving problems daily. Tracking streaks, revisiting weak patterns, and progress
 | [0007-reverse-integer](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0013-roman-to-integer) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 <!---LeetCode Topics End-->
