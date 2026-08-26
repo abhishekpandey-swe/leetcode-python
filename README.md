@@ -153,12 +153,14 @@ Solving problems daily. Tracking streaks, revisiting weak patterns, and progress
 | [0560-subarray-sum-equals-k](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0560-subarray-sum-equals-k) |
 | [0881-boats-to-save-people](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0977-squares-of-a-sorted-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/1406-stone-game-iii) |
 ## Binary Search
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhishekmlops/leetcode-python/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1004-max-consecutive-ones-iii](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/1004-max-consecutive-ones-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -170,6 +172,7 @@ Solving problems daily. Tracking streaks, revisiting weak patterns, and progress
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0560-subarray-sum-equals-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/1140-stone-game-ii) |
 ## Sorting
 |  |
@@ -222,6 +225,7 @@ Solving problems daily. Tracking streaks, revisiting weak patterns, and progress
 ## Sliding Window
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/1004-max-consecutive-ones-iii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Timsort
 |  |
