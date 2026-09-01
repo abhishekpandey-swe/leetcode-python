@@ -127,6 +127,7 @@ Solving problems daily. Tracking streaks, revisiting weak patterns, and progress
 | [0014-longest-common-prefix](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/abhishekmlops/leetcode-python/tree/master/0125-valid-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/abhishekmlops/leetcode-python/tree/master/0680-valid-palindrome-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -172,6 +173,7 @@ Solving problems daily. Tracking streaks, revisiting weak patterns, and progress
 | [0001-two-sum](https://github.com/abhishekmlops/leetcode-python/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0013-roman-to-integer) |
 | [0424-longest-repeating-character-replacement](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0560-subarray-sum-equals-k) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Prefix Sum
@@ -234,6 +236,7 @@ Solving problems daily. Tracking streaks, revisiting weak patterns, and progress
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1004-max-consecutive-ones-iii](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/1004-max-consecutive-ones-iii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Timsort
