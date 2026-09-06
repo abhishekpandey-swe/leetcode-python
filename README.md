@@ -160,6 +160,7 @@ Solving problems daily. Tracking streaks, revisiting weak patterns, and progress
 | [1004-max-consecutive-ones-iii](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/1406-stone-game-iii) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Binary Search
@@ -241,6 +242,7 @@ Solving problems daily. Tracking streaks, revisiting weak patterns, and progress
 | [0424-longest-repeating-character-replacement](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1004-max-consecutive-ones-iii](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/1004-max-consecutive-ones-iii) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Timsort
 |  |
@@ -262,4 +264,20 @@ Solving problems daily. Tracking streaks, revisiting weak patterns, and progress
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0050-powx-n) |
+## Queue
+|  |
+| ------- |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+## Ordered Set
+|  |
+| ------- |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+## Monotonic Queue
+|  |
+| ------- |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 <!---LeetCode Topics End-->
