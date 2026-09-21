@@ -1,12 +1,8 @@
+import math
 class Solution:
-    def findNumbers(self, nums: list[int]) -> int:
-
-        length = 0
-
+    def findNumbers(self, nums: List[int]) -> int:
+        count = 0
         for num in nums:
-           digit = len(str(num))
-
-           if digit % 2 == 0:
-              length += 1
-
-        return length
+            if int(math.log10(num) + 1) % 2 == 0:
+                count += 1
+        return count
