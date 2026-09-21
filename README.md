@@ -167,6 +167,7 @@ Solving problems daily. Tracking streaks, revisiting weak patterns, and progress
 | [0977-squares-of-a-sorted-array](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/1140-stone-game-ii) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1406-stone-game-iii](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/1406-stone-game-iii) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -233,6 +234,7 @@ Solving problems daily. Tracking streaks, revisiting weak patterns, and progress
 | [0189-rotate-array](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0189-rotate-array) |
 | [0836-rectangle-overlap](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/1140-stone-game-ii) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1406-stone-game-iii](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/1406-stone-game-iii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/3876-construct-uniform-parity-array-ii) |
