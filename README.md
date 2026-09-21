@@ -232,6 +232,7 @@ Solving problems daily. Tracking streaks, revisiting weak patterns, and progress
 | [0013-roman-to-integer](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0189-rotate-array) |
+| [0507-perfect-number](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0507-perfect-number) |
 | [0836-rectangle-overlap](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/1140-stone-game-ii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/1295-find-numbers-with-even-number-of-digits) |
