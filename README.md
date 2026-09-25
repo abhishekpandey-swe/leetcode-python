@@ -155,6 +155,7 @@ Solving problems daily. Tracking streaks, revisiting weak patterns, and progress
 | [0054-spiral-matrix](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0118-pascals-triangle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhishekmlops/leetcode-python/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0189-rotate-array) |
@@ -216,6 +217,7 @@ Solving problems daily. Tracking streaks, revisiting weak patterns, and progress
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0042-trapping-rain-water) |
+| [0118-pascals-triangle](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0118-pascals-triangle) |
 | [1140-stone-game-ii](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/1406-stone-game-iii) |
 ## Stack
