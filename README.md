@@ -154,6 +154,7 @@ Solving problems daily. Tracking streaks, revisiting weak patterns, and progress
 | [0042-trapping-rain-water](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0118-pascals-triangle) |
@@ -192,6 +193,7 @@ Solving problems daily. Tracking streaks, revisiting weak patterns, and progress
 | ------- |
 | [0001-two-sum](https://github.com/abhishekmlops/leetcode-python/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0424-longest-repeating-character-replacement) |
@@ -374,5 +376,6 @@ Solving problems daily. Tracking streaks, revisiting weak patterns, and progress
 | ------- |
 | [0048-rotate-image](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0073-set-matrix-zeroes) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 <!---LeetCode Topics End-->
