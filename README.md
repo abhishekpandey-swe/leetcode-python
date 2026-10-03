@@ -129,6 +129,7 @@ Solving problems daily. Tracking streaks, revisiting weak patterns, and progress
 | ------- |
 | [0013-roman-to-integer](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0014-longest-common-prefix) |
+| [0032-longest-valid-parentheses](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0032-longest-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/abhishekmlops/leetcode-python/tree/master/0125-valid-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -224,6 +225,7 @@ Solving problems daily. Tracking streaks, revisiting weak patterns, and progress
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0119-pascals-triangle-ii) |
@@ -232,6 +234,7 @@ Solving problems daily. Tracking streaks, revisiting weak patterns, and progress
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0042-trapping-rain-water) |
 ## Monotonic Stack
 |  |
@@ -381,4 +384,8 @@ Solving problems daily. Tracking streaks, revisiting weak patterns, and progress
 | [0054-spiral-matrix](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0073-set-matrix-zeroes) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
