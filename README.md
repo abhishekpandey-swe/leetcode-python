@@ -187,6 +187,7 @@ Solving problems daily. Tracking streaks, revisiting weak patterns, and progress
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhishekmlops/leetcode-python/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0209-minimum-size-subarray-sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -248,6 +249,7 @@ Solving problems daily. Tracking streaks, revisiting weak patterns, and progress
 | [0013-roman-to-integer](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0204-count-primes) |
 | [0507-perfect-number](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0507-perfect-number) |
@@ -388,4 +390,8 @@ Solving problems daily. Tracking streaks, revisiting weak patterns, and progress
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0032-longest-valid-parentheses) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
