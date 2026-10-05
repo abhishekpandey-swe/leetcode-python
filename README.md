@@ -230,6 +230,7 @@ Solving problems daily. Tracking streaks, revisiting weak patterns, and progress
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0119-pascals-triangle-ii) |
 | [1140-stone-game-ii](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/1140-stone-game-ii) |
@@ -252,6 +253,7 @@ Solving problems daily. Tracking streaks, revisiting weak patterns, and progress
 | [0048-rotate-image](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0204-count-primes) |
 | [0507-perfect-number](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0507-perfect-number) |
@@ -396,4 +398,8 @@ Solving problems daily. Tracking streaks, revisiting weak patterns, and progress
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0069-sqrtx) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
