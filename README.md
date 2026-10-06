@@ -402,4 +402,8 @@ Solving problems daily. Tracking streaks, revisiting weak patterns, and progress
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0070-climbing-stairs) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
