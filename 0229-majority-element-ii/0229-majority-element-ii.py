@@ -1,33 +1,16 @@
 class Solution:
     def majorityElement(self, nums: list[int]) -> list[int]:
+        n = len(nums)
+        freq = {}
 
-        cand1, cand2 = None, None
-        count1, count2 = 0, 0
-        
-        n = len(nums) # Added this line
-
+        # Step 1: Count frequencies
         for num in nums:
-            if num == cand1:
-                count1 += 1
-            elif num == cand2:
-                count2 += 1
-            elif count1 == 0:
-                cand1 = num
-                count1 = 1
-            elif count2 == 0:
-                cand2 = num
-                count2 = 1
-            else:
-                count1 -= 1
-                count2 -= 1
+            freq[num] = freq.get(num, 0) + 1
 
-        # Second pass: verify the candidates
+        # Step 2: Check against the threshold
         res = []
-        
-        # Fixed the tuple logic here
-        for cand in (cand1, cand2):
-            if cand is not None and nums.count(cand) > n // 3:
-                if cand not in res:
-                    res.append(cand)
+        for num, count in freq.items():
+            if count > n // 3:
+                res.append(num)
 
-        return res # Fixed variable name here
+        return res
