@@ -169,6 +169,7 @@ Solving problems daily. Tracking streaks, revisiting weak patterns, and progress
 | [0189-rotate-array](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0209-minimum-size-subarray-sum) |
+| [0229-majority-element-ii](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -201,6 +202,7 @@ Solving problems daily. Tracking streaks, revisiting weak patterns, and progress
 | [0013-roman-to-integer](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0229-majority-element-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -222,6 +224,7 @@ Solving problems daily. Tracking streaks, revisiting weak patterns, and progress
 | [0075-sort-colors](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0229-majority-element-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0881-boats-to-save-people](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0977-squares-of-a-sorted-array) |
@@ -342,10 +345,12 @@ Solving problems daily. Tracking streaks, revisiting weak patterns, and progress
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0229-majority-element-ii) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0229-majority-element-ii) |
 ## Design
 |  |
 | ------- |
