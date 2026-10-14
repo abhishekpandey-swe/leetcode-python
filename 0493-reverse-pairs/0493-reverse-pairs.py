@@ -1,38 +1,71 @@
 from typing import List
 
 class Solution:
-    def reversePairs(self, nums: List[int]) -> int:
-        def merge_sort(arr):
-            if len(arr) <= 1:
-                return arr, 0
-            
-            mid = len(arr) // 2
-            left, cnt_left = merge_sort(arr[:mid])
-            right, cnt_right = merge_sort(arr[mid:])
-            
-            cnt = cnt_left + cnt_right
-            
-            # Count reverse pairs between left and right
-            i = 0
-            for y in right:
-                while i < len(left) and left[i] <= 2 * y:
+    def reversePairs(self, nums: list[int]) -> int:
+
+        n = len(nums)
+        temp = [0] * n
+
+        def merge_sort(left : int , right : int) -> int:
+
+            if right - left <= 1:
+                return 0 
+
+            mid = (left + right) // 2
+
+            count = merge_sort(left,  mid) + merge_sort(mid , right)
+
+            # Count cross reverse pairs:
+            # nums[i] > 2 * nums[j], where i in left half, j in right half
+
+            j = mid 
+            for i in range(left, mid):
+                while j < right and nums[i] > 2 * nums[j]:
+                    j += 1
+
+                count += j - mid 
+
+                    # Merge two sorted halves into temp
+
+            i , j , k = left , mid , left 
+                    
+            while i < mid and j < right :
+                if nums[i] <= nums[j]:
+                    temp[k] = nums[i]
                     i += 1
-                cnt += len(left) - i
-            
-            # Merge two sorted halves
-            merged = []
-            p = q = 0
-            while p < len(left) and q < len(right):
-                if left[p] <= right[q]:
-                    merged.append(left[p])
-                    p += 1
+
                 else:
-                    merged.append(right[q])
-                    q += 1
-            
-            merged.extend(left[p:])
-            merged.extend(right[q:])
-            
-            return merged, cnt
-        
-        return merge_sort(nums)[1]
+                   temp[k] = nums[j]
+                   j += 1
+
+                k += 1
+
+            while i < mid :
+                temp[k] = nums[i]
+                i += 1
+                k += 1
+
+            while j < right :
+                temp[k] = nums[j]
+                j += 1
+                k += 1
+
+            # Copy back from temp to nums
+
+            for k in range(left, right):
+                nums[k] = temp[k]
+
+            return count 
+
+        return merge_sort(0, n)
+
+                
+
+
+
+
+
+
+
+
+
