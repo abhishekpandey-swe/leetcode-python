@@ -165,6 +165,7 @@ Solving problems daily. Tracking streaks, revisiting weak patterns, and progress
 | [0088-merge-sorted-array](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0119-pascals-triangle-ii) |
+| [0152-maximum-product-subarray](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhishekmlops/leetcode-python/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0189-rotate-array) |
@@ -243,6 +244,7 @@ Solving problems daily. Tracking streaks, revisiting weak patterns, and progress
 | [0070-climbing-stairs](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0119-pascals-triangle-ii) |
+| [0152-maximum-product-subarray](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0152-maximum-product-subarray) |
 | [1140-stone-game-ii](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/1406-stone-game-iii) |
 ## Stack
