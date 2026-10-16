@@ -165,6 +165,7 @@ Solving problems daily. Tracking streaks, revisiting weak patterns, and progress
 | [0088-merge-sorted-array](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0119-pascals-triangle-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhishekmlops/leetcode-python/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0169-majority-element) |
@@ -207,6 +208,7 @@ Solving problems daily. Tracking streaks, revisiting weak patterns, and progress
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0229-majority-element-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -447,4 +449,8 @@ Solving problems daily. Tracking streaks, revisiting weak patterns, and progress
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0493-reverse-pairs) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
