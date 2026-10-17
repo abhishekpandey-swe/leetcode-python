@@ -119,6 +119,7 @@ Solving problems daily. Tracking streaks, revisiting weak patterns, and progress
 | [0125-valid-palindrome](https://github.com/abhishekmlops/leetcode-python/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhishekmlops/leetcode-python/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0680-valid-palindrome-ii](https://github.com/abhishekmlops/leetcode-python/tree/master/0680-valid-palindrome-ii) |
@@ -210,6 +211,7 @@ Solving problems daily. Tracking streaks, revisiting weak patterns, and progress
 | [0073-set-matrix-zeroes](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0229-majority-element-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0424-longest-repeating-character-replacement) |
@@ -269,6 +271,7 @@ Solving problems daily. Tracking streaks, revisiting weak patterns, and progress
 | [0069-sqrtx](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0204-count-primes) |
 | [0507-perfect-number](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0507-perfect-number) |
 | [0836-rectangle-overlap](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0836-rectangle-overlap) |
@@ -453,4 +456,8 @@ Solving problems daily. Tracking streaks, revisiting weak patterns, and progress
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0128-longest-consecutive-sequence) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
