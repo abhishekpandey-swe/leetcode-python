@@ -175,6 +175,7 @@ Solving problems daily. Tracking streaks, revisiting weak patterns, and progress
 | [0209-minimum-size-subarray-sum](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0239-sliding-window-maximum) |
+| [0268-missing-number](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0493-reverse-pairs](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0493-reverse-pairs) |
@@ -199,6 +200,7 @@ Solving problems daily. Tracking streaks, revisiting weak patterns, and progress
 | [0069-sqrtx](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhishekmlops/leetcode-python/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0493-reverse-pairs](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0493-reverse-pairs) |
 | [1004-max-consecutive-ones-iii](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/1004-max-consecutive-ones-iii) |
@@ -213,6 +215,7 @@ Solving problems daily. Tracking streaks, revisiting weak patterns, and progress
 | [0169-majority-element](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -236,6 +239,7 @@ Solving problems daily. Tracking streaks, revisiting weak patterns, and progress
 | [0088-merge-sorted-array](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0645-set-mismatch](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0645-set-mismatch) |
 | [0881-boats-to-save-people](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0881-boats-to-save-people) |
@@ -273,6 +277,7 @@ Solving problems daily. Tracking streaks, revisiting weak patterns, and progress
 | [0189-rotate-array](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0204-count-primes) |
+| [0268-missing-number](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0507-perfect-number) |
 | [0836-rectangle-overlap](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/1140-stone-game-ii) |
@@ -435,6 +440,7 @@ Solving problems daily. Tracking streaks, revisiting weak patterns, and progress
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0645-set-mismatch) |
 ## Binary Indexed Tree
 |  |
