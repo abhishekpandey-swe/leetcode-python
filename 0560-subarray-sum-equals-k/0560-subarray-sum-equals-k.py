@@ -1,19 +1,18 @@
-class Solution(object):
-    def subarraySum(self, nums, k):
-        """
-        :type nums: List[int]
-        :type k: int
-        :rtype: int
-        """
-        prefix_count = {0 : 1}
-        prefix_sum = 0
-        count= 0
+from collections import defaultdict
+
+class Solution:
+    def subarraySum(self, nums: List[int], k: int) -> int:
+        count = 0
+        prefix = 0
+        seen = defaultdict(int)
+        seen[0] = 1  # empty prefix
 
         for num in nums:
-            prefix_sum += num
+            prefix += num
 
-            count += prefix_count.get(prefix_sum-k, 0)
+            # number of previous prefixes that make sum k
+            count += seen[prefix - k]
 
-            prefix_count[prefix_sum] = prefix_count.get(prefix_sum, 0) + 1
+            seen[prefix] += 1
 
         return count
