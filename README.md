@@ -254,6 +254,7 @@ Solving problems daily. Tracking streaks, revisiting weak patterns, and progress
 | [0118-pascals-triangle](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0119-pascals-triangle-ii) |
 | [0152-maximum-product-subarray](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0152-maximum-product-subarray) |
+| [0338-counting-bits](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0338-counting-bits) |
 | [1140-stone-game-ii](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/1406-stone-game-iii) |
 ## Stack
@@ -442,6 +443,7 @@ Solving problems daily. Tracking streaks, revisiting weak patterns, and progress
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0338-counting-bits) |
 | [0645-set-mismatch](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0645-set-mismatch) |
 ## Binary Indexed Tree
 |  |
