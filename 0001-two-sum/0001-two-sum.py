@@ -1,8 +1,9 @@
 from typing import List
 
 class Solution:
-    def twoSum(self, nums: List[int], target: int) -> List[int]:
-        seen = {}  # value -> index
+    def twoSum(self, nums: list[int], target: int) -> list[int]:
+
+        seen = {}
 
         for i, num in enumerate(nums):
             complement = target - num
@@ -13,3 +14,7 @@ class Solution:
             seen[num] = i
 
         return []
+
+
+
+        
