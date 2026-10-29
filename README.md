@@ -197,6 +197,7 @@ Solving problems daily. Tracking streaks, revisiting weak patterns, and progress
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1937-maximum-number-of-points-with-cost](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/1937-maximum-number-of-points-with-cost) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -267,6 +268,7 @@ Solving problems daily. Tracking streaks, revisiting weak patterns, and progress
 | [0338-counting-bits](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0338-counting-bits) |
 | [1140-stone-game-ii](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/1406-stone-game-iii) |
+| [1937-maximum-number-of-points-with-cost](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/1937-maximum-number-of-points-with-cost) |
 ## Stack
 |  |
 | ------- |
@@ -429,6 +431,7 @@ Solving problems daily. Tracking streaks, revisiting weak patterns, and progress
 | [0054-spiral-matrix](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0073-set-matrix-zeroes) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1937-maximum-number-of-points-with-cost](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/1937-maximum-number-of-points-with-cost) |
 ## Bracket Sequences
 |  |
 | ------- |
