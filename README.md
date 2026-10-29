@@ -183,6 +183,7 @@ Solving problems daily. Tracking streaks, revisiting weak patterns, and progress
 | [0283-move-zeroes](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0493-reverse-pairs](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0493-reverse-pairs) |
+| [0528-random-pick-with-weight](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0528-random-pick-with-weight) |
 | [0540-single-element-in-a-sorted-array](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0645-set-mismatch) |
@@ -213,6 +214,7 @@ Solving problems daily. Tracking streaks, revisiting weak patterns, and progress
 | [0268-missing-number](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0493-reverse-pairs](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0493-reverse-pairs) |
+| [0528-random-pick-with-weight](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0528-random-pick-with-weight) |
 | [0540-single-element-in-a-sorted-array](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/1004-max-consecutive-ones-iii) |
@@ -239,6 +241,7 @@ Solving problems daily. Tracking streaks, revisiting weak patterns, and progress
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0209-minimum-size-subarray-sum) |
+| [0528-random-pick-with-weight](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0528-random-pick-with-weight) |
 | [0560-subarray-sum-equals-k](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/1140-stone-game-ii) |
@@ -293,6 +296,7 @@ Solving problems daily. Tracking streaks, revisiting weak patterns, and progress
 | [0204-count-primes](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0507-perfect-number) |
+| [0528-random-pick-with-weight](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0528-random-pick-with-weight) |
 | [0836-rectangle-overlap](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/1140-stone-game-ii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -482,4 +486,8 @@ Solving problems daily. Tracking streaks, revisiting weak patterns, and progress
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0202-happy-number) |
+## Randomized
+|  |
+| ------- |
+| [0528-random-pick-with-weight](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0528-random-pick-with-weight) |
 <!---LeetCode Topics End-->
