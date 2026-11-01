@@ -7,21 +7,17 @@ class Solution:
 
             mid = low + (high - low) // 2
 
-            total_hr = 0
+            total_time = 0
 
             for x in piles:
 
-                total_hr += (x + mid - 1) // mid
+                total_time += (x + mid - 1) // mid
 
-            if total_hr > h:
+            if total_time > h:
                 low = mid + 1
 
             else:
                 high = mid - 1
 
-        return low 
+        return low
 
-
-
-        
-        
