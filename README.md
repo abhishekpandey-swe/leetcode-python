@@ -189,6 +189,7 @@ Solving problems daily. Tracking streaks, revisiting weak patterns, and progress
 | [0645-set-mismatch](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0705-design-hashset) |
+| [0875-koko-eating-bananas](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/1004-max-consecutive-ones-iii) |
@@ -218,6 +219,7 @@ Solving problems daily. Tracking streaks, revisiting weak patterns, and progress
 | [0528-random-pick-with-weight](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0528-random-pick-with-weight) |
 | [0540-single-element-in-a-sorted-array](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/1004-max-consecutive-ones-iii) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Hash Table
