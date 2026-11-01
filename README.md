@@ -193,6 +193,7 @@ Solving problems daily. Tracking streaks, revisiting weak patterns, and progress
 | [0977-squares-of-a-sorted-array](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/1140-stone-game-ii) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1406-stone-game-iii](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/1406-stone-game-iii) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -218,6 +219,7 @@ Solving problems daily. Tracking streaks, revisiting weak patterns, and progress
 | [0540-single-element-in-a-sorted-array](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/1004-max-consecutive-ones-iii) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Hash Table
 |  |
 | ------- |
