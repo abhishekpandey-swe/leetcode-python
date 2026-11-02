@@ -4,43 +4,38 @@ class Solution:
         if m * k > len(bloomDay):
             return -1
 
-        low, high = 1, max(bloomDay)
-
-        while low < high:
-
-            mid = low + (high - low) // 2
-
+        def canMakeBouquets(day: int) -> bool:
             bouquets = 0
             consecutive = 0
 
             for flower in bloomDay:
-                if flower <= mid:
+                if flower <= day:
                     consecutive += 1
-
 
                     if consecutive == k:
                         bouquets += 1
                         consecutive = 0
 
-                        if bouquets > m:
-                            break
+                        if bouquets >= m:
+                            return True 
 
                 else:
-
                     consecutive = 0
 
-            if bouquets >= m:
-                high = mid
+            return False
+
+        # Binary search on answer
+
+        low = min(bloomDay)
+        high = max(bloomDay)
+
+        while low <= high:
+            mid = low + (high - low) // 2
+
+            if canMakeBouquets(mid):
+                high = mid - 1
 
             else:
                 low = mid + 1
 
         return low
-
-
-
-
-
-
-
-        
