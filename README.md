@@ -201,6 +201,7 @@ Solving problems daily. Tracking streaks, revisiting weak patterns, and progress
 | [1406-stone-game-iii](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/1406-stone-game-iii) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1539-kth-missing-positive-number](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/1539-kth-missing-positive-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1937-maximum-number-of-points-with-cost](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/1937-maximum-number-of-points-with-cost) |
@@ -227,6 +228,7 @@ Solving problems daily. Tracking streaks, revisiting weak patterns, and progress
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1539-kth-missing-positive-number](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/1539-kth-missing-positive-number) |
 ## Hash Table
 |  |
 | ------- |
