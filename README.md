@@ -143,6 +143,7 @@ Solving problems daily. Tracking streaks, revisiting weak patterns, and progress
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0011-container-with-most-water) |
+| [0410-split-array-largest-sum](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0410-split-array-largest-sum) |
 | [0680-valid-palindrome-ii](https://github.com/abhishekmlops/leetcode-python/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0881-boats-to-save-people) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -182,6 +183,7 @@ Solving problems daily. Tracking streaks, revisiting weak patterns, and progress
 | [0268-missing-number](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0410-split-array-largest-sum](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0410-split-array-largest-sum) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0493-reverse-pairs](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0493-reverse-pairs) |
 | [0528-random-pick-with-weight](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0528-random-pick-with-weight) |
@@ -219,6 +221,7 @@ Solving problems daily. Tracking streaks, revisiting weak patterns, and progress
 | [0209-minimum-size-subarray-sum](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0410-split-array-largest-sum](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0493-reverse-pairs) |
 | [0528-random-pick-with-weight](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0528-random-pick-with-weight) |
 | [0540-single-element-in-a-sorted-array](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0540-single-element-in-a-sorted-array) |
@@ -252,6 +255,7 @@ Solving problems daily. Tracking streaks, revisiting weak patterns, and progress
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0209-minimum-size-subarray-sum) |
+| [0410-split-array-largest-sum](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0410-split-array-largest-sum) |
 | [0528-random-pick-with-weight](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0528-random-pick-with-weight) |
 | [0560-subarray-sum-equals-k](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/1004-max-consecutive-ones-iii) |
@@ -281,6 +285,7 @@ Solving problems daily. Tracking streaks, revisiting weak patterns, and progress
 | [0119-pascals-triangle-ii](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0119-pascals-triangle-ii) |
 | [0152-maximum-product-subarray](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0338-counting-bits) |
+| [0410-split-array-largest-sum](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0410-split-array-largest-sum) |
 | [1140-stone-game-ii](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/1406-stone-game-iii) |
 | [1937-maximum-number-of-points-with-cost](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/1937-maximum-number-of-points-with-cost) |
