@@ -136,6 +136,7 @@ Solving problems daily. Tracking streaks, revisiting weak patterns, and progress
 | [0125-valid-palindrome](https://github.com/abhishekmlops/leetcode-python/tree/master/0125-valid-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0564-find-the-closest-palindrome](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0564-find-the-closest-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/abhishekmlops/leetcode-python/tree/master/0680-valid-palindrome-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -316,6 +317,7 @@ Solving problems daily. Tracking streaks, revisiting weak patterns, and progress
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0507-perfect-number](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0507-perfect-number) |
 | [0528-random-pick-with-weight](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0528-random-pick-with-weight) |
+| [0564-find-the-closest-palindrome](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0564-find-the-closest-palindrome) |
 | [0836-rectangle-overlap](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/1140-stone-game-ii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/1295-find-numbers-with-even-number-of-digits) |
