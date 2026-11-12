@@ -18,7 +18,7 @@ class Solution:
 
             ans = max(ans, inc, dec)
 
-        return ans
+        return max(ans, inc, dec)
 
 
 
