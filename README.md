@@ -153,6 +153,7 @@ Solving problems daily. Tracking streaks, revisiting weak patterns, and progress
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abhishekmlops/leetcode-python/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0015-3sum) |
@@ -217,6 +218,7 @@ Solving problems daily. Tracking streaks, revisiting weak patterns, and progress
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0035-search-insert-position) |
@@ -404,6 +406,7 @@ Solving problems daily. Tracking streaks, revisiting weak patterns, and progress
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0169-majority-element) |
 | [0493-reverse-pairs](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0493-reverse-pairs) |
 ## Counting
