@@ -206,6 +206,7 @@ Solving problems daily. Tracking streaks, revisiting weak patterns, and progress
 | [1406-stone-game-iii](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/1406-stone-game-iii) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1539-kth-missing-positive-number](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/1539-kth-missing-positive-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1882-process-tasks-using-servers](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/1882-process-tasks-using-servers) |
@@ -267,6 +268,7 @@ Solving problems daily. Tracking streaks, revisiting weak patterns, and progress
 | [0560-subarray-sum-equals-k](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/1140-stone-game-ii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Sorting
 |  |
 | ------- |
@@ -295,6 +297,7 @@ Solving problems daily. Tracking streaks, revisiting weak patterns, and progress
 | [0410-split-array-largest-sum](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0410-split-array-largest-sum) |
 | [1140-stone-game-ii](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/1406-stone-game-iii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1937-maximum-number-of-points-with-cost](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/1937-maximum-number-of-points-with-cost) |
 ## Stack
 |  |
@@ -327,6 +330,7 @@ Solving problems daily. Tracking streaks, revisiting weak patterns, and progress
 | [1140-stone-game-ii](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/1140-stone-game-ii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1406-stone-game-iii](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/1406-stone-game-iii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Game Theory
