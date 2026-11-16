@@ -138,6 +138,7 @@ Solving problems daily. Tracking streaks, revisiting weak patterns, and progress
 | [0438-find-all-anagrams-in-a-string](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0564-find-the-closest-palindrome](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0564-find-the-closest-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/abhishekmlops/leetcode-python/tree/master/0680-valid-palindrome-ii) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Greedy
@@ -440,6 +441,7 @@ Solving problems daily. Tracking streaks, revisiting weak patterns, and progress
 | ------- |
 | [0054-spiral-matrix](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Enumeration
 |  |
 | ------- |
