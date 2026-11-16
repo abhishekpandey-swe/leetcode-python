@@ -249,6 +249,7 @@ Solving problems daily. Tracking streaks, revisiting weak patterns, and progress
 | [0013-roman-to-integer](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0128-longest-consecutive-sequence) |
+| [0133-clone-graph](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0133-clone-graph) |
 | [0169-majority-element](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0229-majority-element-ii) |
@@ -524,4 +525,16 @@ Solving problems daily. Tracking streaks, revisiting weak patterns, and progress
 |  |
 | ------- |
 | [0528-random-pick-with-weight](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0528-random-pick-with-weight) |
+## Depth-First Search
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0133-clone-graph) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0133-clone-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0133-clone-graph) |
 <!---LeetCode Topics End-->
