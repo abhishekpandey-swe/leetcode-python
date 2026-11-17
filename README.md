@@ -122,6 +122,7 @@ Solving problems daily. Tracking streaks, revisiting weak patterns, and progress
 | [0189-rotate-array](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0283-move-zeroes) |
+| [0295-find-median-from-data-stream](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0295-find-median-from-data-stream) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0680-valid-palindrome-ii](https://github.com/abhishekmlops/leetcode-python/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0881-boats-to-save-people) |
@@ -282,6 +283,7 @@ Solving problems daily. Tracking streaks, revisiting weak patterns, and progress
 | [0169-majority-element](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0268-missing-number) |
+| [0295-find-median-from-data-stream](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0295-find-median-from-data-stream) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0645-set-mismatch](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0645-set-mismatch) |
@@ -397,6 +399,7 @@ Solving problems daily. Tracking streaks, revisiting weak patterns, and progress
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0295-find-median-from-data-stream) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1882-process-tasks-using-servers](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/1882-process-tasks-using-servers) |
 ## Ordered Set
@@ -432,6 +435,7 @@ Solving problems daily. Tracking streaks, revisiting weak patterns, and progress
 ## Design
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0295-find-median-from-data-stream) |
 | [0705-design-hashset](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0705-design-hashset) |
 ## Hash Function
 |  |
@@ -541,4 +545,8 @@ Solving problems daily. Tracking streaks, revisiting weak patterns, and progress
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0133-clone-graph) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
