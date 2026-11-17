@@ -1,31 +1,49 @@
 class Solution:
-    def findMedianSortedArrays(self, nums1: List[int], nums2: List[int]) -> float:
-        # Ensure nums1 is the smaller array
-        if len(nums1) > len(nums2):
+    def findMedianSortedArrays(self, nums1: list[int], nums2: list[int]) -> float:
+        n1, n2 = len(nums1), len(nums2)
+
+        # Always perform binary search on the smaller array
+        if n1 > n2:
             return self.findMedianSortedArrays(nums2, nums1)
 
-        m, n = len(nums1), len(nums2)
-        low, high = 0, m
-        half = (m + n + 1) // 2  # size of left half
+        low, high = 0, n1
+
+        left = (n1 + n2 + 1) // 2
+        n = n1 + n2
 
         while low <= high:
-            i = (low + high) // 2          # cut in nums1
-            j = half - i                   # cut in nums2
+            mid1 = (low + high) // 2
+            mid2 = left - mid1
 
-            maxLeft1  = float('-inf') if i == 0 else nums1[i - 1]
-            minRight1 = float('inf')  if i == m else nums1[i]
-            maxLeft2  = float('-inf') if j == 0 else nums2[j - 1]
-            minRight2 = float('inf')  if j == n else nums2[j]
+            l1 = float('-inf')
+            l2 = float('-inf')
+            r1 = float('inf')
+            r2 = float('inf')
 
-            if maxLeft1 <= minRight2 and maxLeft2 <= minRight1:
-                # Valid partition
-                if (m + n) % 2 == 0:
-                    return (max(maxLeft1, maxLeft2) + min(minRight1, minRight2)) / 2.0
-                else:
-                    return float(max(maxLeft1, maxLeft2))
-            elif maxLeft1 > minRight2:
-                high = i - 1   # move cut left in nums1
+            if mid1 < n1:
+                r1 = nums1[mid1]
+
+            if mid2 < n2:
+                r2 = nums2[mid2]
+
+            if mid1 - 1 >= 0:
+                l1 = nums1[mid1 - 1]
+
+            if mid2 - 1 >= 0:
+                l2 = nums2[mid2 - 1]
+
+            # Valid partition found
+            if l1 <= r2 and l2 <= r1:
+                if n % 2 == 1:
+                    return float(max(l1, l2))
+
+                return (max(l1, l2) + min(r1, r2)) / 2.0
+
+            # Move binary search boundaries
+            elif l1 > r2:
+                high = mid1 - 1
+
             else:
-                low = i + 1    # move cut right in nums1
+                low = mid1 + 1
 
-        raise ValueError("Input arrays are not sorted")
+        return 0.0
