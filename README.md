@@ -152,6 +152,7 @@ Solving problems daily. Tracking streaks, revisiting weak patterns, and progress
 | [0680-valid-palindrome-ii](https://github.com/abhishekmlops/leetcode-python/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0881-boats-to-save-people) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Array
 |  |
@@ -218,6 +219,7 @@ Solving problems daily. Tracking streaks, revisiting weak patterns, and progress
 | [1937-maximum-number-of-points-with-cost](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/1937-maximum-number-of-points-with-cost) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Binary Search
@@ -290,6 +292,7 @@ Solving problems daily. Tracking streaks, revisiting weak patterns, and progress
 | [0645-set-mismatch](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0645-set-mismatch) |
 | [0881-boats-to-save-people](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0977-squares-of-a-sorted-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
