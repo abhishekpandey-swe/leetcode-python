@@ -144,6 +144,7 @@ Solving problems daily. Tracking streaks, revisiting weak patterns, and progress
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Greedy
 |  |
 | ------- |
@@ -221,6 +222,7 @@ Solving problems daily. Tracking streaks, revisiting weak patterns, and progress
 | [2149-rearrange-array-elements-by-sign](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Binary Search
 |  |
@@ -266,6 +268,7 @@ Solving problems daily. Tracking streaks, revisiting weak patterns, and progress
 | [0645-set-mismatch](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0645-set-mismatch) |
 | [0705-design-hashset](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0705-design-hashset) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -541,6 +544,7 @@ Solving problems daily. Tracking streaks, revisiting weak patterns, and progress
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0133-clone-graph) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -553,4 +557,8 @@ Solving problems daily. Tracking streaks, revisiting weak patterns, and progress
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0295-find-median-from-data-stream) |
+## Tree
+|  |
+| ------- |
+| [3331-find-subtree-sizes-after-changes](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/3331-find-subtree-sizes-after-changes) |
 <!---LeetCode Topics End-->
