@@ -1,8 +1,5 @@
 class Solution:
     def findSubtreeSizes(self, parent: list[int], s: str) -> list[int]:
-        import sys
-        sys.setrecursionlimit(1_000_000)
-
         n = len(parent)
 
         # Original tree.
@@ -10,34 +7,38 @@ class Solution:
         for x in range(1, n):
             children[parent[x]].append(x)
 
-        # Find new parents.
         new_parent = [-1] * n
         stacks = [[] for _ in range(26)]
+        preorder = []
 
-        def dfs(u: int) -> None:
+        # Iterative DFS: (node, state), state 0 = enter, state 1 = exit.
+        st = [(0, 0)]
+
+        while st:
+            u, state = st.pop()
             c = ord(s[u]) - ord('a')
-            new_parent[u] = stacks[c][-1] if stacks[c] else parent[u]
 
-            stacks[c].append(u)
-            for v in children[u]:
-                dfs(v)
-            stacks[c].pop()
+            if state == 0:
+                # Closest same-character ancestor on the original path.
+                new_parent[u] = stacks[c][-1] if stacks[c] else parent[u]
 
-        dfs(0)
+                stacks[c].append(u)
+                preorder.append(u)
 
-        # Build the new tree.
-        new_children = [[] for _ in range(n)]
-        for x in range(1, n):
-            new_children[new_parent[x]].append(x)
+                # Exit marker.
+                st.append((u, 1))
 
-        # Compute subtree sizes in the new tree.
+                # Push children in reverse order so they are processed left-to-right.
+                for v in reversed(children[u]):
+                    st.append((v, 0))
+            else:
+                # Backtrack: remove u from its character stack.
+                stacks[c].pop()
+
+        # Count sizes in reverse original preorder.
         ans = [1] * n
+        for u in reversed(preorder):
+            if new_parent[u] != -1:
+                ans[new_parent[u]] += ans[u]
 
-        def dfs2(u: int) -> None:
-            for v in new_children[u]:
-                dfs2(v)
-                ans[u] += ans[v]
-
-        dfs2(0)
         return ans
-        
