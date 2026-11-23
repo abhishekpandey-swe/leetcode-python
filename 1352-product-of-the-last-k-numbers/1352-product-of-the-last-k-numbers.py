@@ -1,22 +1,20 @@
 class ProductOfNumbers:
-
     def __init__(self):
-        # Use a list to store every number added to the stream
-        self.stream = []
+        # Initialize with 1 to simplify multiplication logic
+        self.prefix_products = [1]
 
     def add(self, num: int) -> None:
-        # Simply append the number to our list
-        self.stream.append(num)
+        if num == 0:
+            # A zero resets the product chain
+            self.prefix_products = [1]
+        else:
+            # Append the cumulative product
+            self.prefix_products.append(self.prefix_products[-1] * num)
 
     def getProduct(self, k: int) -> int:
-        # Start with 1 (since it's multiplication)
-        product = 1
+        # If k is larger than the non-zero suffix, a zero is in range
+        if k >= len(self.prefix_products):
+            return 0
         
-        # Slice the last k elements from the list
-        last_k_elements = self.stream[-k:]
-        
-        # Multiply them all together
-        for num in last_k_elements:
-            product *= num
-            
-        return product
+        # Product of last k numbers = (total product) / (product before the k numbers)
+        return self.prefix_products[-1] // self.prefix_products[-k - 1]
