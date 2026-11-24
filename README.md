@@ -225,6 +225,7 @@ Solving problems daily. Tracking streaks, revisiting weak patterns, and progress
 | [2567-minimum-score-by-changing-two-elements](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/3331-find-subtree-sizes-after-changes) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Binary Search
 |  |
@@ -349,6 +350,7 @@ Solving problems daily. Tracking streaks, revisiting weak patterns, and progress
 | [1406-stone-game-iii](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/1406-stone-game-iii) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Game Theory
 |  |
@@ -378,6 +380,7 @@ Solving problems daily. Tracking streaks, revisiting weak patterns, and progress
 | [1004-max-consecutive-ones-iii](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/1004-max-consecutive-ones-iii) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Timsort
 |  |
 | ------- |
@@ -467,10 +470,12 @@ Solving problems daily. Tracking streaks, revisiting weak patterns, and progress
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0204-count-primes) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Number Theory
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0204-count-primes) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Primality Test
 |  |
 | ------- |
