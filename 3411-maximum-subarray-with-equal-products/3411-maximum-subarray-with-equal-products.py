@@ -3,22 +3,17 @@ from typing import List
 
 class Solution:
     def maxLength(self, nums: List[int]) -> int:
-        n = len(nums)
-        ans = 0
+        ans = 2          # Any two numbers always work
+        left = 0
+        prod = 1         # Product of the current window
 
-        for i in range(n):
-            for j in range(i, n):
-                prod = 1
-                g = 0
-                l = 1
+        for right, x in enumerate(nums):
+            # Shrink until x is coprime with every element in the window
+            while gcd(prod, x) > 1:
+                prod //= nums[left]
+                left += 1
 
-                for k in range(i, j + 1):
-                    x = nums[k]
-                    prod *= x
-                    g = gcd(g, x)
-                    l = l // gcd(l, x) * x
-
-                if prod == l * g:
-                    ans = max(ans, j - i + 1)
+            prod *= x
+            ans = max(ans, right - left + 1)
 
         return ans
