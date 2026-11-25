@@ -5,9 +5,10 @@ class Solution:
         return q if (a >= 0) == (b >= 0) else -q
 
     def calculate(self, s: str) -> int:
-        stack = []
-        num = 0
-        op = "+"
+        total = 0   # sum of completed terms
+        term = 0    # current term (product/division chain)
+        num = 0     # current number
+        op = "+"    # previous operator
 
         # Sentinel "+" forces the last number to be processed
         for ch in s + "+":
@@ -18,15 +19,17 @@ class Solution:
                 num = num * 10 + int(ch)
             else:
                 if op == "+":
-                    stack.append(num)
+                    total += term
+                    term = num
                 elif op == "-":
-                    stack.append(-num)
+                    total += term
+                    term = -num
                 elif op == "*":
-                    stack[-1] *= num
+                    term *= num
                 else:  # op == "/"
-                    stack[-1] = self._trunc_div(stack[-1], num)
+                    term = self._trunc_div(term, num)
 
                 op = ch
                 num = 0
 
-        return sum(stack)
+        return total + term
