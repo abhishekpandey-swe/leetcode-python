@@ -136,6 +136,7 @@ Solving problems daily. Tracking streaks, revisiting weak patterns, and progress
 | [0014-longest-common-prefix](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0014-longest-common-prefix) |
 | [0032-longest-valid-parentheses](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0032-longest-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/abhishekmlops/leetcode-python/tree/master/0125-valid-palindrome) |
+| [0227-basic-calculator-ii](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0227-basic-calculator-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0564-find-the-closest-palindrome](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0564-find-the-closest-palindrome) |
@@ -321,6 +322,7 @@ Solving problems daily. Tracking streaks, revisiting weak patterns, and progress
 | [0032-longest-valid-parentheses](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0143-reorder-list) |
+| [0227-basic-calculator-ii](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0227-basic-calculator-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -338,6 +340,7 @@ Solving problems daily. Tracking streaks, revisiting weak patterns, and progress
 | [0189-rotate-array](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0204-count-primes) |
+| [0227-basic-calculator-ii](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0227-basic-calculator-ii) |
 | [0268-missing-number](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0268-missing-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0507-perfect-number](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0507-perfect-number) |
