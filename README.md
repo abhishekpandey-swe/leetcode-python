@@ -577,4 +577,8 @@ Solving problems daily. Tracking streaks, revisiting weak patterns, and progress
 |  |
 | ------- |
 | [3331-find-subtree-sizes-after-changes](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/3331-find-subtree-sizes-after-changes) |
+## Backtracking
+|  |
+| ------- |
+| [1240-tiling-a-rectangle-with-the-fewest-squares](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/1240-tiling-a-rectangle-with-the-fewest-squares) |
 <!---LeetCode Topics End-->
