@@ -353,6 +353,7 @@ Solving problems daily. Tracking streaks, revisiting weak patterns, and progress
 | [1406-stone-game-iii](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/1406-stone-game-iii) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3360-stone-removal-game](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Game Theory
@@ -469,6 +470,7 @@ Solving problems daily. Tracking streaks, revisiting weak patterns, and progress
 | [0054-spiral-matrix](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/3360-stone-removal-game) |
 ## Enumeration
 |  |
 | ------- |
