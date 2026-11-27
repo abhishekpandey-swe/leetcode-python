@@ -157,6 +157,7 @@ Solving problems daily. Tracking streaks, revisiting weak patterns, and progress
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Array
 |  |
 | ------- |
@@ -228,6 +229,7 @@ Solving problems daily. Tracking streaks, revisiting weak patterns, and progress
 | [3331-find-subtree-sizes-after-changes](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -316,6 +318,7 @@ Solving problems daily. Tracking streaks, revisiting weak patterns, and progress
 | [1406-stone-game-iii](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/1406-stone-game-iii) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1937-maximum-number-of-points-with-cost](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/1937-maximum-number-of-points-with-cost) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Stack
 |  |
 | ------- |
