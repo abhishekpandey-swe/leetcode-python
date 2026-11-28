@@ -158,6 +158,7 @@ Solving problems daily. Tracking streaks, revisiting weak patterns, and progress
 | [2567-minimum-score-by-changing-two-elements](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Array
 |  |
 | ------- |
@@ -230,6 +231,7 @@ Solving problems daily. Tracking streaks, revisiting weak patterns, and progress
 | [3411-maximum-subarray-with-equal-products](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -303,6 +305,7 @@ Solving problems daily. Tracking streaks, revisiting weak patterns, and progress
 | [0881-boats-to-save-people](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0977-squares-of-a-sorted-array) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -423,6 +426,7 @@ Solving problems daily. Tracking streaks, revisiting weak patterns, and progress
 | [0295-find-median-from-data-stream](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/0295-find-median-from-data-stream) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1882-process-tasks-using-servers](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/1882-process-tasks-using-servers) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/abhishekpandey-swe/leetcode-python/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Ordered Set
 |  |
 | ------- |
